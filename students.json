@@ -1,0 +1,16 @@
+[
+    {
+        "id": "101",
+        "name": "Revanth",
+        "age": "26",
+        "course": "MBA",
+        "marks": "99"
+    },
+    {
+        "id": "102",
+        "name": "MRS. Deepika Revanth",
+        "age": "24",
+        "course": "Mtech",
+        "marks": "98"
+    }
+]
